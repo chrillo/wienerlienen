@@ -1,0 +1,29 @@
+{
+  "name": "wienerlinen",
+  "version": "0.0.1",
+  "description": "wrapper for the wienerlinien api https://open.wien.at/site/datensatz/?id=add66f20-d033-4eee-b9a0-47019828e698",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "wienerlinien",
+    "verkehr",
+    "realtime",
+    "oeffis",
+    "opendata"
+  ],
+  "author": "Christoph Peter",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.2.9",
+    "request": "~2.27.0",
+    "express": "~3.4.0",
+    "csv": "~0.3.6"
+  },
+  "devDependencies": {
+    "should": "~1.3.0",
+    "mocha": "~1.13.0",
+    "sinon": "~1.7.3"
+  }
+}
