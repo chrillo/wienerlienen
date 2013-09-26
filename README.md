@@ -1,5 +1,5 @@
-Wrapper for the Wienerlinen Realtime API
-========================================
+Wienerlinen Realtime API Wrapper
+================================
 
 Links:
 Information Page: https://open.wien.at/site/datensatz/?id=add66f20-d033-4eee-b9a0-47019828e698
